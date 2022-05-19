@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SALT_assignment/static/css/main.5b061a4f.chunk.css",
+    "main.js": "/SALT_assignment/static/js/main.53c74e13.chunk.js",
+    "main.js.map": "/SALT_assignment/static/js/main.53c74e13.chunk.js.map",
+    "runtime-main.js": "/SALT_assignment/static/js/runtime-main.49bc94e4.js",
+    "runtime-main.js.map": "/SALT_assignment/static/js/runtime-main.49bc94e4.js.map",
+    "static/js/2.ad98c7ff.chunk.js": "/SALT_assignment/static/js/2.ad98c7ff.chunk.js",
+    "static/js/2.ad98c7ff.chunk.js.map": "/SALT_assignment/static/js/2.ad98c7ff.chunk.js.map",
+    "static/js/3.fd8d238b.chunk.js": "/SALT_assignment/static/js/3.fd8d238b.chunk.js",
+    "static/js/3.fd8d238b.chunk.js.map": "/SALT_assignment/static/js/3.fd8d238b.chunk.js.map",
+    "index.html": "/SALT_assignment/index.html",
+    "static/css/main.5b061a4f.chunk.css.map": "/SALT_assignment/static/css/main.5b061a4f.chunk.css.map",
+    "static/js/2.ad98c7ff.chunk.js.LICENSE.txt": "/SALT_assignment/static/js/2.ad98c7ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49bc94e4.js",
+    "static/js/2.ad98c7ff.chunk.js",
+    "static/css/main.5b061a4f.chunk.css",
+    "static/js/main.53c74e13.chunk.js"
+  ]
+}
